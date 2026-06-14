@@ -37,4 +37,9 @@ This includes detailed information about:
 #### 🗺️ Country Median Salaries - Map Chart
 
 ![MedianSalaryMapChart Dashboard Demo](Median_Salary_MapChart.gif)
+* 🛠️ Excel Features: Utilized Excel's map chart feature to plot median salaries globally.
+* 🎨 Design Choice: Color-coded map to visually differentiate salary levels across regions.
+* 📊 Data Representation: Plotted median salary for each country with available data.
+* 👁️ Visual Enhancement: Improved readability and immediate understanding of geographic salary trends.
+* 💡 Insights Gained: Enables quick grasp of global salary disparities and highlights high/low salary regions.
 
