@@ -9,3 +9,10 @@ The data is from an Excel course, which provides a foundation in analyzing data 
 
 ### Dashboard File
 You can see my final dashboard here- [Download Excel Salary Dashboard](Excel-Salary-Dasboard.xlsx.xlsx)
+
+### Excel Skills
+The following Excel skills were utilized for analysis:
+
+-📉 Charts
+-🧮 Formulas and Functions
+-❎ Data Validation
