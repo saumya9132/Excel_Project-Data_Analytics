@@ -3,4 +3,5 @@
 ![Salary Dashboard Demo](salary_dashboard.gif.gif)
 
 ## Introduction
-Built using Microsoft Excel and Power Query, this dashboard enables users to explore salary trends and job market insights through an intuitive interface.
+This data jobs salary dashboard is built using Microsoft Excel and Power Query to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated.
+The data is from an Excel course, which provides a foundation in analyzing data using this powerful tool. The data contains detailed information on job titles, salaries, locations, and essential skills that are presented here.
