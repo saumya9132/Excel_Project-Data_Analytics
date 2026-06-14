@@ -57,3 +57,7 @@ IF(
 )
 )
 ```
+* 🔍 Multi-Criteria Filtering: Checks job title, country, schedule type, and excludes blank salaries.
+* 📊 Array Formula: Utilizes MEDIAN() function with nested IF() statement to analyze an array.
+* 🎯 Tailored Insights: Provides specific salary information for job titles, regions, and schedule types.
+* 🔢 Formula Purpose: This formula populates the table below, returning the median salary based on job title, country, and type specified.
