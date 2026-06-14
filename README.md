@@ -33,3 +33,5 @@ This includes detailed information about:
 * 🎨 Design Choice: Horizontal bar chart for visual comparison of median salaries.
 * 📉 Data Organization: Sorted job titles by descending salary for improved readability.
 * 💡 Insights Gained: This enables quick identification of salary trends, noting that Senior roles and Engineers are higher-paying than Analyst roles.
+
+#### 🗺️ Country Median Salaries - Map Chart
