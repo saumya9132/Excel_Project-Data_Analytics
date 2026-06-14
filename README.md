@@ -46,4 +46,14 @@ This includes detailed information about:
 ### 🧮 Formulas and Functions
 #### 💰 Median Salary by Job Titles
 
-
+```excel
+=MEDIAN(
+IF(
+    (jobs[job_title_short]=A2)*
+    (jobs[job_country]=country)*
+    (ISNUMBER(SEARCH(type,jobs[job_schedule_type])))*
+    (jobs[salary_year_avg]<>0),
+    jobs[salary_year_avg]
+)
+)
+```
