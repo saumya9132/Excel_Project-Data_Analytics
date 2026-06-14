@@ -28,4 +28,4 @@ This includes detailed information about:
 ## Dashboard Build
 ### 📉 Charts
 #### 📊 Data Science Job Salaries - Bar Chart
-!(Salary_Dasboard_Chart1.png)
+![Salary_Dashboard_Chart1](Salary_Dasboard_Chart1.png)
