@@ -13,8 +13,8 @@ You can see my final dashboard here- [Download Excel Salary Dashboard](Excel-Sal
 ### Excel Skills
 The following Excel skills were utilized for analysis:
 
-*📉 Charts
+* 📉 Charts
 
-*🧮 Formulas and Functions
+* 🧮 Formulas and Functions
 
-*❎ Data Validation
+* ❎ Data Validation
