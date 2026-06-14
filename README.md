@@ -43,3 +43,7 @@ This includes detailed information about:
 * 👁️ Visual Enhancement: Improved readability and immediate understanding of geographic salary trends.
 * 💡 Insights Gained: Enables quick grasp of global salary disparities and highlights high/low salary regions.
 
+### 🧮 Formulas and Functions
+#### 💰 Median Salary by Job Titles
+
+
