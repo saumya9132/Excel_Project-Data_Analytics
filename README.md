@@ -24,3 +24,7 @@ This includes detailed information about:
 * 💰 Salaries
 * 📍 Locations
 * 🛠️ Skills
+
+## Dashboard Build
+### 📉 Charts
+#### 📊 Data Science Job Salaries - Bar Chart
