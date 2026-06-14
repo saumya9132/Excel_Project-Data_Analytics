@@ -18,3 +18,11 @@ The following Excel skills were utilized for analysis:
 * 🧮 Formulas and Functions
 
 * ❎ Data Validation
+
+### Detailed Indformation
+This includes detailed information about:
+
+* 👨‍💼 Job titles
+* 💰 Salaries
+* 📍 Locations
+* 🛠️ Skills
