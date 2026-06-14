@@ -8,4 +8,4 @@ This data jobs salary dashboard is built using Microsoft Excel and Power Query t
 The data is from an Excel course, which provides a foundation in analyzing data using this powerful tool. The data contains detailed information on job titles, salaries, locations, and essential skills that are presented here.
 
 ### Dashboard File
-My final dashboard is in [Download the Excel Dashboard](Excel-Salary-Dasboard.xlsx.xlsx)
+You can see my final dashboard here- [Download Excel Salary Dashboard](Excel-Salary-Dasboard.xlsx.xlsx)
