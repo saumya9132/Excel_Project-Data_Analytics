@@ -35,3 +35,6 @@ This includes detailed information about:
 * 💡 Insights Gained: This enables quick identification of salary trends, noting that Senior roles and Engineers are higher-paying than Analyst roles.
 
 #### 🗺️ Country Median Salaries - Map Chart
+
+![MedianSalaryMapChart Dashboard Demo](Median_Salary_MapChart.gif)
+
